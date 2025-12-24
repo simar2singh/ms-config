@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Simar's Prod Rest Apis"
+  contactDetails:
+    name: "Mankiran Kaur - Developer"
+    email: "mankiran@simarapi.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345

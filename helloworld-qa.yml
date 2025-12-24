@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Simar's QA Rest Apis"
+  contactDetails:
+    name: "Sifat Kaur - Developer"
+    email: "sifat@simarapi.com"
+  onCallSupport:
+    - (444) 555-1234
+    - (444) 523-1345
