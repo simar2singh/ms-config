@@ -2,13 +2,14 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Simar's Prod Rest Apis"
+  message: "Welcome to Simar's Production Rest Apis"
   contactDetails:
-    name: "Mankiran Kaur Bakshi - Developer"
+    name: "Mankiran Bakshi - Developer"
     email: "{cipher}fd9cca6819d00c953225a22198afa5f120c18f9db8b1d59fd4f1e300f90dce03d3125a20907e8424ad7a9bb1edc3ad47"
   onCallSupport:
     - (666) 555-1234
     - (666) 523-1345
+
 
 
 
