@@ -5,8 +5,9 @@ accounts:
   message: "Welcome to Simar's Prod Rest Apis"
   contactDetails:
     name: "Mankiran Kaur - Developer"
-    email: "fd9cca6819d00c953225a22198afa5f120c18f9db8b1d59fd4f1e300f90dce03d3125a20907e8424ad7a9bb1edc3ad47"
+    email: "{cipher}fd9cca6819d00c953225a22198afa5f120c18f9db8b1d59fd4f1e300f90dce03d3125a20907e8424ad7a9bb1edc3ad47"
   onCallSupport:
     - (666) 555-1234
     - (666) 523-1345
+
 
